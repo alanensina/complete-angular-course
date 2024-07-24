@@ -32,5 +32,5 @@
 <br>`ng serve --configuration=development`
 
 - Install flex-layout
-<br>`npm install @angular/flex/layout`
+<br>`npm install @angular/flex-layout`
 
