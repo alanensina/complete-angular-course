@@ -4,6 +4,8 @@
 
 - Create a project
 <br>`ng new <project-name>`
+
+- Create a project with app.module (Angular 17+)
 <br>`ng new <project-name> --no-standalone`
 
 - Create a module
@@ -33,4 +35,8 @@
 
 - Install flex-layout
 <br>`npm install @angular/flex-layout`
+
+- Install NgRx store and effects
+<br>`npm install @ngrx/store @ngrx/effects`
+<br>`npm install @ngrx/store-devtools`
 
