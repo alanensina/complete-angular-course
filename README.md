@@ -33,6 +33,9 @@
 - Start the application in development mode
 <br>`ng serve --configuration=development`
 
+- Test the application
+<br>`ng test`
+
 - Install flex-layout
 <br>`npm install @angular/flex-layout`
 
